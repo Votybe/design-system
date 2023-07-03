@@ -15,6 +15,15 @@ onMounted(async () => {
 });
 </script>
 
+<!-- un premier commentaire -->
+
+<!-- un deuxième commentaire -->
+
+<!-- un troisième commentaire -->
+
+<!-- un quatrième commentaire -->
+
+<!-- un cinquième commentaire -->
 
 <template>
   <main>
